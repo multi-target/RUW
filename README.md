@@ -10,8 +10,8 @@ In this paper, we introduce RUW, an artificially annotated multi-target stance d
 - pandas==1.3.5  
 - tweet-preprocessor==0.6.0  
 - scikit-learn==1.0.2  
-# Basic Usage
+# Basic usage
 We provide one processed dataset:   
 Ruw is used for the target stance detection task.
-# Contact Info
+# Contact info
 Please contact Guantong Liu at lgt@dlmu.edu.cn with any questions.
