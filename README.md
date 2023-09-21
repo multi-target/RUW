@@ -10,7 +10,9 @@ In this paper, we introduce RUW, an artificially annotated multi-target stance d
 - pandas==1.3.5  
 - tweet-preprocessor==0.6.0  
 - scikit-learn==1.0.2
-# experiment
+# Experimental results
+The following table shows the results of several baseline models run on both datasets.  
+
 <table class=MsoTableGrid border=0 cellspacing=0 cellpadding=0
  style='border-collapse:collapse;border:none;mso-yfti-tbllook:1184;mso-padding-alt:
  0cm 5.4pt 0cm 5.4pt;mso-border-insideh:none;mso-border-insidev:none'>
@@ -250,7 +252,8 @@ In this paper, we introduce RUW, an artificially annotated multi-target stance d
   </td>
   <span style='mso-bookmark:_Hlk143418719'></span>
  </tr>
-</table>
+</table>  
+
 # Basic usage
 We provide one processed dataset:   
 Ruw is used for the target stance detection task.
