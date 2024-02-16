@@ -266,4 +266,4 @@ The following table shows the results of several models run on both datasets.
 We provide one processed dataset:   
 Ruw is used for the target stance detection task.
 # Contact info
-Please contact XXX at XXX@XXX with any questions.
+Please contact Guantong Liu at lgt@dlmu.edu.cn with any questions.
