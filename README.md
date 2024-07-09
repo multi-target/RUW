@@ -311,7 +311,7 @@ The following table shows the results of several models run on both datasets.
   <td width=79 valign=top style='width:59.45pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='text-indent:22.1pt'><span style='mso-bookmark:_Hlk143418719'><b><span
-  lang=EN-US style='font-size:11.0pt;mso-bidi-font-size:10.5pt'>68.21<o:p></o:p></span></b></span></p>
+  lang=EN-US style='font-size:11.0pt;mso-bidi-font-size:10.5pt'>70.31<o:p></o:p></span></b></span></p>
   </td>
   <span style='mso-bookmark:_Hlk143418719'></span>
   <td width=92 valign=top style='width:69.15pt;border:none;border-bottom:solid windowtext 1.0pt;
@@ -329,7 +329,7 @@ The following table shows the results of several models run on both datasets.
   <td width=93 valign=top style='width:69.5pt;border:none;border-bottom:solid windowtext 1.0pt;
   mso-border-bottom-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='text-indent:22.1pt'><span style='mso-bookmark:_Hlk143418719'><b><span
-  lang=EN-US style='font-size:11.0pt;mso-bidi-font-size:10.5pt'>61.90<o:p></o:p></span></b></span></p>
+  lang=EN-US style='font-size:11.0pt;mso-bidi-font-size:10.5pt'>65.9<o:p></o:p></span></b></span></p>
   </td>
   <span style='mso-bookmark:_Hlk143418719'></span>
  </tr>
